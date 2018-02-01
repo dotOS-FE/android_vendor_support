@@ -29,6 +29,7 @@
         <attr name="showReset" format="boolean" />
         <attr name="dividerAbove" format="boolean" />
         <attr name="dividerBelow" format="boolean" />
+        <attr name="ledPreview" format="boolean" />
     </declare-styleable>
 
     <!-- Base attributes available to CircularImageView -->
