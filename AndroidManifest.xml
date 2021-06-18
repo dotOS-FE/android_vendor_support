@@ -16,7 +16,7 @@
 -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.dot.support">
+    package="com.dotfe.support">
 
     <uses-sdk
         android:minSdkVersion="27" />
